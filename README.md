@@ -3,11 +3,10 @@
 Bonjour cher.e recruteur.euse !
 
 J'ai eu l'idée de mener ce petit travail de visualisation et analyse de données en Python pour donner un aperçu de mes compétences en programmation/analyse (le fichier .ipynb); au cas où vous souhaiteriez avoir un exemple.
-Il y a également un exemple de travail que j'ai pu réalisé à l'université sur l'outil de visualisation Tableau (les fichiers "TP3" et "TP5").
+Il y a également un exemple de travail que j'ai pu réaliser à l'université sur l'outil de visualisation Tableau (les fichiers "TP3" et "TP5").
 
 Bien sûr, ce n'est qu'un aperçu. 
-Je saurais également mettre en place des modèles de machine learning, et évaluer leur performance.
-Je pourrais aussi mener un traitement des données à l'aide de RStudio, ainsi qu'une visualisation intéractive basique avec RShiny.
+Je saurais également mettre en place des modèles de machine learning, et évaluer leur performance ; je pourrais aussi traiter des données à l'aide de RStudio, produire une visualisation intéractive basique avec RShiny, etc...
 Je possède aussi des bases en PowerBI, SQL. 
 
 Je reste à votre disposition pour toutes questions que vous pourriez avoir !
