@@ -6,7 +6,8 @@ J'ai eu l'idée de mener ce petit travail de visualisation et analyse de donnée
 Il y a également un exemple de travail que j'ai pu réalisé à l'université sur l'outil de visualisation Tableau (les fichiers "TP3" et "TP5").
 
 Bien sûr, ce n'est qu'un aperçu. 
-Je saurais également mettre en place un traitement des données sur RStudio, ainsi qu'une visualisation intéractive basique avec RShiny.
-Je possède aussi des bases en PowerBI, SQL.
+Je saurais également mettre en place des modèles de machine learning, et évaluer leur performance.
+Je pourrais aussi mener un traitement des données à l'aide de RStudio, ainsi qu'une visualisation intéractive basique avec RShiny.
+Je possède aussi des bases en PowerBI, SQL. 
 
 Je reste à votre disposition pour toutes questions que vous pourriez avoir !
